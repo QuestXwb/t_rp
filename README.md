@@ -1,2 +1,2 @@
 # t_rp
-This is description!
+This is a test repository for xwb
